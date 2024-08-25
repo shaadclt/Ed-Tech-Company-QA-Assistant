@@ -5,7 +5,7 @@ This project is a QA (Question-Answering) assistant designed for an Ed-Tech comp
 - [Features](#Features)
 - [Installation](#Installation)
 - [Usage](#Usage)
-- [Project Structure](#ProjectStructure)
+- [Project Structure](#Project)
 - [Future Enhancements](#FutureEnhancements)
 - [Contributing](#Contributing)
 - [License](#License)
