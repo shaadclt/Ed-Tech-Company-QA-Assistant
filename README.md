@@ -1,6 +1,15 @@
 # Ed-Tech Company QA Assistant
 This project is a QA (Question-Answering) assistant designed for an Ed-Tech company. It leverages vector databases, state-of-the-art language models, and custom document embeddings to provide accurate responses to user queries based on a pre-defined knowledge base.
 
+## Table of Contents
+- [Features](#Features)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Project Structure](#ProjectStructure)
+- [Future Enhancements](#FutureEnhancements)
+- [Contributing](#Contributing)
+- [License](#License)
+
 ## Features
 - **Vector Database**: Utilizes FAISS for efficient similarity search across the knowledge base.
 - **Custom Embeddings**: Powered by HuggingFaceEmbeddings using the sentence-transformers/all-MiniLM-L6-v2 model.
