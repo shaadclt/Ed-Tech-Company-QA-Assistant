@@ -2,11 +2,11 @@
 This project is a QA (Question-Answering) assistant designed for an Ed-Tech company. It leverages vector databases, state-of-the-art language models, and custom document embeddings to provide accurate responses to user queries based on a pre-defined knowledge base.
 
 ## Features
-- Vector Database: Utilizes FAISS for efficient similarity search across the knowledge base.
-- Custom Embeddings: Powered by HuggingFaceEmbeddings using the sentence-transformers/all-MiniLM-L6-v2 model.
-- Large Language Model (LLM): Integrates Groq's LLaMA3 model (llama3-8b-8192) for generating context-aware responses.
-- CSV Loader: Loads FAQs or other structured data from CSV files to populate the knowledge base.
-- Streamlit Interface: A simple and interactive UI for asking questions and receiving answers.
+- **Vector Database**: Utilizes FAISS for efficient similarity search across the knowledge base.
+- **Custom Embeddings**: Powered by HuggingFaceEmbeddings using the sentence-transformers/all-MiniLM-L6-v2 model.
+- **Large Language Model (LLM)**: Integrates Groq's LLaMA3 model (llama3-8b-8192) for generating context-aware responses.
+- **CSV Loader**: Loads FAQs or other structured data from CSV files to populate the knowledge base.
+- **Streamlit Interface**: A simple and interactive UI for asking questions and receiving answers.
 
 ## Installation
 1. Clone the Repository:
