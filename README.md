@@ -42,10 +42,10 @@ GROQ_API_KEY=your_groq_api_key_here
 streamlit run main.py
 ```
 
-2. Create the Knowledge Base
+2. Create the Knowledge Base:
 To create the knowledge base from a CSV file, click the button Create Knowledgebase
 
-3. Ask a Question
+3. Ask a Question: 
 Enter a question in the Streamlit interface, and the assistant will provide a contextually accurate response based on the loaded knowledge base.
 
 ## Project Structure
